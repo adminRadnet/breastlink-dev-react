@@ -31,7 +31,7 @@
     "gsap": "^3.0.5",
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "momentjs": "^2.0.0",
     "normalize.css": "^8.0.1",
     "react": "^16.12.0",
